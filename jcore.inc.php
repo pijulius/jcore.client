@@ -27,6 +27,6 @@ define('SEO_FRIENDLY_LINKS', true);
  *  Do Not touch these unless you know what to do
  */
 
-define('JCORE_VERSION', '0.8');
+define('JCORE_VERSION', '0.9');
 
 ?>
