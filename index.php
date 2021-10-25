@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 /***************************************************************************
  *            index.php
@@ -8,7 +8,7 @@
  *  me@pijulius.com
  *  For licensing, see LICENSE or http://jcore.net/license
  ****************************************************************************/
- 
+
 	include_once('jcore.inc.php');
-	include_once(JCORE_PATH.'index.php'); 
+	include_once(JCORE_PATH.'index.php');
 ?>
